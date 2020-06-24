@@ -1,2 +1,1 @@
-# tindog-template
-template for tindog
+TinDog Starting Files
